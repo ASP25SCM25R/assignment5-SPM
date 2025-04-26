@@ -1,2 +1,2 @@
-Bucket name -  atharv_bucket_spm
+Bucket name -  atharv_spm_bucket
 URL - 
