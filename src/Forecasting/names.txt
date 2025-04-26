@@ -1,2 +1,2 @@
 Bucket name -  atharv_spm_bucket
-URL - 
+URL - https://flaskhelloworldapp-406777818223.us-central1.run.app
